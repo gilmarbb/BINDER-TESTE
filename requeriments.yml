@@ -1,0 +1,8 @@
+name: meu_ambiente_sage
+channels:
+  - conda-forge
+dependencies:
+  - sage=9.3  # ou a versão que preferir, assegure-se de que seja >=9.0 para o SageManifolds
+  - pip
+  - pip:
+      - outras_dependências_pip_se_necessário
