@@ -1,1 +1,6 @@
 sagemath
+pandas
+math
+simpy
+numpy
+
