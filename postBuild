@@ -1,5 +1,0 @@
-#!/bin/bash
-
-# Comando para registrar o kernel do SageMath no Jupyter
-#sage -python -m pip install ipykernel
-#sage -python -m ipykernel install --user --name=sagemath --display-name="SageMath"
